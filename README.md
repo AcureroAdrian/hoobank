@@ -1,8 +1,7 @@
 # HooBank - Modern UI/UX website using React.js & Tailwind CSS
 
-![Home page capture of the project.](./captures/Captura_1.PNG "Home Page")
-![Mobile application section.](./captures/Captura_2.PNG "App")
-![Payment methods section.](./captures/Captura_3.PNG "Pay methods")
+![Home page capture of the project.](./public/1.jpg "Home Page")
+![Payment methods section.](./public/2.jpg "Pay methods")
 
 ## Description
 Hoobank it's a sample UI/UX showcase for a site using React and Tailwind CSS.
